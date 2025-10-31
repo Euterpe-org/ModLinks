@@ -788,7 +788,7 @@
   },
   {
     "Name": "Rank preview",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/RankPreview.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -800,7 +800,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "eb7283d36309072f9bc691a8f935b314e0bdd4d7d56594511654bad02afbe242"
+    "SHA256": "cd8b5d42057457aaf29fee7ed91b8efe6e53a2cdb49272bcffc6bbe95f8aed81"
   },
   {
     "Name": "RomajiSongName",
@@ -932,7 +932,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.6.0",
+    "Version": "1.7.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -944,7 +944,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "2d5cbed66072dabf2e7b469cb0453fd5956464492ff954d939faf823028670b8"
+    "SHA256": "df8d7384da45ab3790565b0ac83a23c453cf62cca94451169d88203b5c016c3c"
   },
   {
     "Name": "StricterJudge",
@@ -998,7 +998,7 @@
   },
   {
     "Name": "UI tweaks",
-    "Version": "1.2.1",
+    "Version": "1.3.0",
     "Author": "bnfour",
     "DownloadLink": "Mods/UITweaks.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -1010,7 +1010,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "b2a3d28f84876ef64214ad3a4477b30b6c6108bd1cfa3b63da55f98ffa6b157e"
+    "SHA256": "c585f1005841309e8e292ea3ab939a0408460a56e14d2fbfcf48c6fdb12ba14e"
   },
   {
     "Name": "UltraInstinctSleepwalking",
