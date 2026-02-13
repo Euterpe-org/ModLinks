@@ -33,7 +33,7 @@
   },
   {
     "Name": "Album scroll",
-    "Version": "2.0.2",
+    "Version": "2.0.3",
     "Author": "bnfour",
     "DownloadLink": "Mods/AlbumScroll.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -45,7 +45,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "077be6d63434249aab7638b0dd90b131f8c5f41aba1c4e24780f02cb3f992a38"
+    "SHA256": "a0ac9d1d148320fc6857e0a488397a7fdf07afea0a3c7aa682f41901ba3a259d"
   },
   {
     "Name": "AltTabMute",
@@ -788,7 +788,7 @@
   },
   {
     "Name": "Rank preview",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Author": "bnfour",
     "DownloadLink": "Mods/RankPreview.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -800,7 +800,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "cd8b5d42057457aaf29fee7ed91b8efe6e53a2cdb49272bcffc6bbe95f8aed81"
+    "SHA256": "8f0c60174ea5cc9ef49b3fb8d4e63d14c9e9a102141e7b07c386de44bc02dcd4"
   },
   {
     "Name": "RomajiSongName",
@@ -932,7 +932,7 @@
   },
   {
     "Name": "Song info",
-    "Version": "1.9.0",
+    "Version": "1.9.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/SongInfo.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -944,7 +944,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "558b904e3bf4f8afd98528cf5d1942a9743567639e9f0fabfeeb6c0eba9427fa"
+    "SHA256": "955f42baf6fbcb191b65398b9e6a634b3fe5d6263174d499090a84e09642606b"
   },
   {
     "Name": "StricterJudge",
@@ -964,7 +964,7 @@
   },
   {
     "Name": "True rank for 999+",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Author": "bnfour",
     "DownloadLink": "Mods/TrueAbove1kRank.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -976,7 +976,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "4446871a7165cc078b9a9068e375f7a79ffeab9d3389269391e733679186befc"
+    "SHA256": "8761509aba4ab95cb7248df1eaed690008cb9eb2680d319c555ce6136f23c8e5"
   },
   {
     "Name": "UIDisable",
@@ -998,7 +998,7 @@
   },
   {
     "Name": "UI tweaks",
-    "Version": "1.3.0",
+    "Version": "1.3.1",
     "Author": "bnfour",
     "DownloadLink": "Mods/UITweaks.dll",
     "HomePage": "https://github.com/bnfour/md-mods",
@@ -1010,7 +1010,7 @@
     "DependentMods": [],
     "DependentLibs": [],
     "IncompatibleMods": [],
-    "SHA256": "c585f1005841309e8e292ea3ab939a0408460a56e14d2fbfcf48c6fdb12ba14e"
+    "SHA256": "f6fa70ac486f41f6b5e5b052acc52e3c2e975c1f503b13f15a195b67894b0918"
   },
   {
     "Name": "UltraInstinctSleepwalking",
