@@ -493,6 +493,22 @@
     "SHA256": "7876096110007741491ef80dc8de7a3438fbadd8417e4b599fefeba80f97b87c"
   },
   {
+    "Name": "Fever switch",
+    "Version": "1.0.0",
+    "Author": "bnfour",
+    "DownloadLink": "Mods/FeverSwitch.dll",
+    "HomePage": "https://github.com/bnfour/md-mods",
+    "ConfigFile": "MelonPreferences.cfg",
+    "GameVersion": [
+      "*"
+    ],
+    "Description": "Replaces the random character/elfin toggle with auto/manual fever switch.",
+    "DependentMods": [],
+    "DependentLibs": [],
+    "IncompatibleMods": [],
+    "SHA256": "fefd5e7406864c646efc65ed9f2d50070bc407ed245e1bb01056c0a040b6baea"
+  },
+  {
     "Name": "Headquarters",
     "Version": "4.0.2",
     "Author": "AshtonMemer",
